@@ -1,6 +1,5 @@
 # Oi! Sou o Gustavo📚
 ______________________
-
 <div align="center">
   <a href="https://github.com/GustavoAEG">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GustavoAEG&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
